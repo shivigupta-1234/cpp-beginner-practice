@@ -34,7 +34,7 @@ conditions, loops, and a menu-driven calculator.
      *******
     *********
 
-## How to Use
+## How to Use (pattern using loop)
 
 1. Compile and run the program using a C++ compiler.
 2. Enter `1` to print the decreasing triangle, or `2` to print the centered pyramid.
