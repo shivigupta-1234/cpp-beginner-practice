@@ -15,6 +15,7 @@ conditions, loops, and a menu-driven calculator.
 - Sum, factorial, reverse, and digit count
 - Prime number check
 -A simple C++ program that prints two star patterns using loops.
+-C++ program to calculate nCr and count prime numbers up to N.
 
 ## Patterns
 
@@ -38,7 +39,20 @@ conditions, loops, and a menu-driven calculator.
 
 1. Compile and run the program using a C++ compiler.
 2. Enter `1` to print the decreasing triangle, or `2` to print the centered pyramid.
-3. Enter the number of rows you want.
+3. Enter the number of rows you want.`
+
+- # C++ Binomial Coefficient and Prime Counter
+
+This program calculates the binomial coefficient `nCr` and counts the prime numbers from 1 to `N`.
+
+## Features
+
+- Calculates `nCr` from user-provided values of `n` and `r`.
+- Counts prime numbers from 1 through the user-provided value of `N`.
+
+## Example
+
+For `N = 10`, the program counts 4 prime numbers: 2, 3, 5, and 7.
 
 ## What I Practiced
 
@@ -46,7 +60,7 @@ conditions, loops, and a menu-driven calculator.
 - Functions
 - `switch` statement
 - Taking input with `cin`
-- Displaying output with `cout`
+- Displaying output with `cout
 
 ## Run
 Compile practice.cpp with a C++ compiler and run the resulting program.
